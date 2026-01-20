@@ -5,4 +5,4 @@
 
 ## Проекты
 - Овердрайвы
- - [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers) с подмешиванием ВЧ
+  - [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers) с подмешиванием ВЧ
