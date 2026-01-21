@@ -1,4 +1,4 @@
-# Si-Klon
+# Si-Klon Overdrive
 
 Исправленный и улучшенный вариант культового овердрайва Klon Centaur. 
 
