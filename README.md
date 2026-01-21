@@ -6,3 +6,4 @@
 ## Проекты
 - Овердрайвы
  1. [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers) с подмешиванием ВЧ
+ 2. [Si-Klon](https://github.com/akouz/MusEff/blob/main/Si-Klon) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers) со смещением
