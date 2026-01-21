@@ -15,3 +15,5 @@
 [Bassman.mp3](https://github.com/user-attachments/files/24757927/SweeHoney_rev_1_1_Bassman_lpf.mp3)
 
 [Boss.mp3](https://github.com/user-attachments/files/24757967/SweetHoney_rev_1_1_Boss_lpf.mp3)
+
+KiCAD проект и гербер файдф находятся в [этом архиве](https://github.com/user-attachments/files/24778888/SweetHoney_rev_1_1.zip)
