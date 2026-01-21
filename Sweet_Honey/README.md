@@ -16,4 +16,4 @@
 
 [Boss.mp3](https://github.com/user-attachments/files/24757967/SweetHoney_rev_1_1_Boss_lpf.mp3)
 
-KiCAD проект и гербер файдф находятся в [этом архиве](https://github.com/akouz/MusEff/blob/main/Sweet_Honey/SweetHoney_rev_1_1.zip)
+KiCAD проект и гербер файлы находятся в [этом архиве](https://github.com/akouz/MusEff/blob/main/Sweet_Honey/SweetHoney_rev_1_1.zip)
