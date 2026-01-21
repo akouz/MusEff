@@ -12,5 +12,6 @@
 
 Примеры звучания, ручка GAIN в трех положениях - 9:00, 12:00 и 15:00. Остальные ручки на 12:00.
 
-[Bassman](https://github.com/user-attachments/files/24757927/SweeHoney_rev_1_1_Bassman_lpf.mp3)
+[Bassman.mp3](https://github.com/user-attachments/files/24757927/SweeHoney_rev_1_1_Bassman_lpf.mp3)
 
+[Boss.mp3](https://github.com/user-attachments/files/24757967/SweetHoney_rev_1_1_Boss_lpf.mp3)
