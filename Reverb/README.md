@@ -14,9 +14,7 @@
 
 ![Front](https://github.com/user-attachments/assets/4f7c8f3d-3662-421d-9d76-2f97e4c1f11e)
 
-KiCAD проект
-
-[Reverb_rev_2_0_KiCad.zip](https://github.com/akouz/MusEff/blob/main/Reverb/Reverb_rev_2_0_KiCad.zip)
+KiCAD проект [Reverb_rev_2_0_KiCad.zip](https://github.com/akouz/MusEff/blob/main/Reverb/Reverb_rev_2_0_KiCad.zip). Регулятор 7805 в корпусе TO-220 расположен с обратной стороны ПП, параллельно ПП и примерно в 5 мм от нее.
 
 ![Собранная ПП](https://github.com/user-attachments/assets/fa1097a5-0ea7-449b-9907-124e698295be)
 
