@@ -10,3 +10,11 @@
 
 [Reverb_rev_2_0_depth.mp3](https://github.com/user-attachments/files/24786575/Reverb_rev_2_0_depth.mp3)
 
+Примочка собрана в корпусе 1590B
+
+![Front](https://github.com/user-attachments/assets/4f7c8f3d-3662-421d-9d76-2f97e4c1f11e)
+
+KiCAD проект
+
+
+
