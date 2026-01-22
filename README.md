@@ -10,5 +10,5 @@
  3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey) - два [клиппера](https://github.com/akouz/MusEff/tree/main/Clippers) со смещением, включенные последовательно
 
 - Задержки
-  1. [Reverb](https://github.com/akouz/MusEff/tree/main/Reverb) - ревербератор на трех линиях задержки PT2399
+ 1. [Reverb](https://github.com/akouz/MusEff/tree/main/Reverb) - ревербератор на трех линиях задержки PT2399
   
