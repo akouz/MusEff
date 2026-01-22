@@ -18,3 +18,5 @@ KiCAD проект
 
 [Reverb_rev_2_0_KiCad.zip](https://github.com/akouz/MusEff/blob/main/Reverb/Reverb_rev_2_0_KiCad.zip)
 
+![Собранная ПП](https://github.com/user-attachments/assets/fa1097a5-0ea7-449b-9907-124e698295be)
+
