@@ -40,7 +40,7 @@ Fig.5
 
 Клиппер со смещением можно также собрать на двух ОУ. В этом случае величину смещения можно плавно регулировать подстроечником.
 
-<img width="543" height="411" alt="OpAmp_bias" src="https://github.com/user-attachments/assets/404944a3-348d-40f7-b76e-8c8fe5562b24" />
+<img width="513" height="395" alt="OpAmp_bias" src="https://github.com/user-attachments/assets/711b506a-9da6-444e-b216-dc0ae94e17fe" />
 
 Fig.6
 
