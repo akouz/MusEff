@@ -2,7 +2,7 @@
 
 ## Теория
 - [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)
-- [Умножители]
+- [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD)
 
 ## Проекты
 - Овердрайвы
