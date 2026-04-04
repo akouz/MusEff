@@ -3,6 +3,8 @@
 ## Теория
 - [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)
 - [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD)
+- ["Закон степени 3/2"](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/README.md)
+
 
 ## Проекты
 - Овердрайвы
