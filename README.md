@@ -4,7 +4,7 @@
 - [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)
 - [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD)
 - ["Закон степени 3/2"](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/README.md)
-
+- [Последовательное включение каскадов и влияние ООС](https://github.com/akouz/MusEff/blob/main/Two_stages_and_FBK/README.md)
 
 ## Проекты
 - Овердрайвы
