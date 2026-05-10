@@ -59,3 +59,25 @@ Fig.5
   </tr>
 </table>
 Fig.6
+
+Если требуется ограничить динамику выходного сигнала, то можно встречно-параллельно первому диоду подключить еще один диод, например, такой же 1N4148. Получится самый обычный клиппер на двух диодах, но в отличие от стандартного включения на него подано постоянное смещение 400 мВ.
+
+При малых входных напряжениях второй диод закрыт и не оказывает влияния, поэтому Fig.2 - Fig.4 остаются в силе. Но в каой-то момент амлитуда отрицательной полуволны становится достаточной, чтобы второй диод открылся, соответственно, вместо Fig.5 и Fig.6 на выходе получится то, что изображено на Fig.7 и Fig.8.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_29.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_29_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.7
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_33-2.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_33-2_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.8
+
+
