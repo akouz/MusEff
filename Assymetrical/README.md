@@ -8,6 +8,14 @@
 
 ![Fig.1](https://github.com/akouz/MusEff/blob/main/Assymetrical/Diode_1.png)
 
+Fig.1
+
 При сигнале с двойной амплитудой 380 мВ искажения достигнут 10%.
 
-![Fig.2](https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_10.png)(https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_10_FFT.png) 
+![Fig.2](https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_10.png)
+
+Fig.2
+
+![Fig.3](https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_10_FFT.png) 
+
+Fig.3
