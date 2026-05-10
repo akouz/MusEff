@@ -40,4 +40,22 @@ Fig.3
 </table>
 Fig.4
 
+Еще раз удвоим входное напряжение, теперь его размах превышает 3 В. Отрицательная полуволна в выходном сигнале становится доминирующей, а рост искажений заметно замедлился.
 
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_33.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_33_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.5
+
+При входном напряжении двойной амплитудой 6 В рост искажений почти прекратился. При этом динамика выходного сигнала более-менее продолжает следовать динамике входного сигнала.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_37.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_37_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.6
