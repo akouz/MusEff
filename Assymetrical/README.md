@@ -30,4 +30,14 @@ Fig.2
 </table>
 Fig.3
 
+При дальнейшем удвоении амплитуды рост искажений начнет уже заметно отставать. На этом шаге в выходном сигнале появилось отрицательное напряжение, при котором диод полностью закрыт и не вносит искажений.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_26.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_26_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.4
+
 
