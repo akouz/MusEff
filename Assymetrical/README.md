@@ -14,8 +14,8 @@ Fig.1
 
 <table style="width: 100%;">
   <tr>
-    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_10.png" width="50%"></td>
-    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_10_FFT.png" width="50%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_10.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/THD_10_FFT.png" width="70%"></td>
   </tr>
 </table>
 Fig.2
