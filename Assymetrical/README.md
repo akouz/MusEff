@@ -82,6 +82,9 @@ Fig.8
 
 Передаточная функция и ее первая производная для такого клиппера показана на Fig.9. Смещение задано 500 мВ, чтобы при входном нулевом сигнале оказаться примерно в середине падающго фронта производной. При этом искажения будут ближе всего к искажениям, создаваемым параболической передаточной функцией. 
 
+[Fig.9](https://github.com/akouz/MusEff/blob/main/Assymetrical/Diodes_transfer_func.png)
+
+
 [Fig.9](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/Assymetrical/Diodes_transfer_func.png)
 
 Fig.9
