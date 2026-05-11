@@ -89,7 +89,21 @@ Fig.8
 </table>
 Fig.9
 
-## 2. Каскад JFET
+## 2. Усилительный каскад на JFET
+
+Сравним две схемы включения JFET, обычную и каскодную. 
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode.png" width="50%"></td>
+  </tr>
+</table>
+Fig.10
+
+
+
+
+
 
 
 
