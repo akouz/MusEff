@@ -95,7 +95,7 @@ Fig.9
 
 <table style="width: 100%;">
   <tr>
-    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode.png" width="50%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode.png" width="70%"></td>
   </tr>
 </table>
 Fig.10
@@ -104,7 +104,7 @@ Fig.10
 
 <table style="width: 100%;">
   <tr>
-    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_transfer.png" width="50%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_transfer.png" width="70%"></td>
   </tr>
 </table>
 Fig.11
@@ -113,11 +113,11 @@ Fig.11
 
 <table style="width: 100%;">
   <tr>
-    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_Vout.png" width="50%"></td>
-    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_FFT.png" width="50%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_Vout.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_FFT.png" width="70%"></td>
   </tr>
 </table>
-Fig.11
+Fig.12
 
 
 
