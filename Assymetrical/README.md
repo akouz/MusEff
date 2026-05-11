@@ -100,6 +100,26 @@ Fig.9
 </table>
 Fig.10
 
+Передаточные функции этих каскадов, а также их производные показаны на Fig.11. Производная передаточной функции каскода более линейна. Это знпчит, что сама передаточная функция каскода ближе к параболической. Поэтому обе схемы дадут вторую гармонику одинаковой величины, а более высоких гармоник в каскодной схеме будет меньше. 
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_transfer.png" width="50%"></td>
+  </tr>
+</table>
+Fig.11
+
+В этом можно убедиться, подав на вход обоих каскадов синусоидальный сигнал и сравнив получившиеся спектры.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_Vout.png" width="50%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_FFT.png" width="50%"></td>
+  </tr>
+</table>
+Fig.11
+
+
 
 
 
