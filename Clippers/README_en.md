@@ -23,7 +23,7 @@ Fig.3
 
 It's clear that the initial portion of the transfer characteristics of silicon clippers is practically linear, since their first derivative is horizontal. The diodes are off and do not introduce distortion up to a certain threshold voltage. However, beyond this threshold, at voltages above 0.35...0.4 V, the transfer characteristics of silicon clippers become similar to those of germanium clippers. The signal transition between the linear and nonlinear portions of the transfer characteristics causes an unpleasant, raspy sound.
 
-Thus, the essential difference between a "germanium" transfer characteristic and a "silicon" one is that the "germanium" one is nonlinear throughout its entire length, while the "silicon" one combines linear and nonlinear sections. A monotonically nonlinear transfer characteristic produces a soft sound, free of unpleasant overtones ("grit").
+Thus, the essential difference between a "germanium" transfer characteristic and a "silicon" one is that the "germanium" one is nonlinear throughout its entire length, while the "silicon" one combines linear and nonlinear sections. A monotonically nonlinear transfer characteristic produces a soft sound, free of unpleasant bursts of overtones ("grit").
 
 Accordingly, the sound of clippers using Schottky diodes remains "silicon-like," as the clipper still has a linear portion in its transfer characteristic, albeit smaller than that of a clipper using conventional silicon diodes. This linear portion can be further reduced by heating the Schottky diodes to 100–120°C. Experiments have shown that the clipper's sound softens and becomes more similar to that of a germanium clipper, but the "silicon wheeze" cannot be completely eliminated.
 
