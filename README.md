@@ -1,7 +1,7 @@
 # Музыкальные эффекты
 
 ## Теория
-- [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)  [Clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md)
+- [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)  [(Clippers)](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md)
 - [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD)
 - ["Закон степени 3/2"](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/README.md)
 - [Последовательное включение каскадов и влияние ООС](https://github.com/akouz/MusEff/blob/main/Two_stages_and_FBK/README.md)
