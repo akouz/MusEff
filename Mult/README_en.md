@@ -1,4 +1,4 @@
-# Multiplyers
+# Multipliers
 
 From trigonometry we know that squaring the sine function gives a function with double the frequency:
 
