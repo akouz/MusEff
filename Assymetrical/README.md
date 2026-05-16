@@ -132,6 +132,15 @@ Fig.12
 </table>
 Fig.13
 
+Выходные сигналы и их спектры преставлены на Fig.14. На коллекторе Q1 присутствует сигнал удвоенной частоты.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/Gilb_out.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/Gilb_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.14
 
 
 
