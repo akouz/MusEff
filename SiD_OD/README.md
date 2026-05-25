@@ -8,5 +8,5 @@ Fig.1
 
 Примеры звучания.
 
-1. [DRIVE в положении 9:00, TONE в положении 12:00 [https://github.com/akouz/MusEff/blob/main/SiD_OD/SiD_OD_drive_9_00_norm.mp3](https://github.com/akouz/MusEff/raw/refs/heads/main/SiD_OD/SiD_OD_drive_9_00_norm.mp3)
-2. DRIVE в положении 15:00, TONE в положении 12:00 [https://github.com/akouz/MusEff/blob/main/SiD_OD/SiD_OD_drive_15_00_norm.mp3](https://github.com/akouz/MusEff/raw/refs/heads/main/SiD_OD/SiD_OD_drive_15_00_norm.mp3)
+1. [\DRIVE в положении 9:00, TONE в положении 12:00 [SiD_OD_drive_9_00](https://github.com/akouz/MusEff/raw/refs/heads/main/SiD_OD/SiD_OD_drive_9_00_norm.mp3)
+2. DRIVE в положении 15:00, TONE в положении 12:00 [SiD_OD_drive_15_00](https://github.com/akouz/MusEff/raw/refs/heads/main/SiD_OD/SiD_OD_drive_15_00_norm.mp3)
