@@ -9,10 +9,10 @@
 
 ## Проекты
 - Овердрайвы
- 1. [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers) с подмешиванием ВЧ
- 2. [Si-Klon](https://github.com/akouz/MusEff/blob/main/Si-Klon) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers) со смещением
- 3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey) - два [клиппера](https://github.com/akouz/MusEff/tree/main/Clippers) со смещением, включенные последовательно
- 4. [SiD OD](https://github.com/akouz/MusEff/tree/main/SiD_OD) - двухкаскадный [ассимметричный диодный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical)
+ 1. [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) с подмешиванием ВЧ
+ 2. [Si-Klon](https://github.com/akouz/MusEff/blob/main/Si-Klon) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением
+ 3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey) - два [клиппера](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением, включенные последовательно
+ 4. [SiD OD](https://github.com/akouz/MusEff/tree/main/SiD_OD) - двухкаскадный [ассимметричный диодный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md)
 
 - Задержки
  1. [Reverb](https://github.com/akouz/MusEff/tree/main/Reverb) - ревербератор на трех линиях задержки PT2399
