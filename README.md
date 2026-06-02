@@ -14,7 +14,7 @@
  3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey) - два [симметричных клиппера](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением
  4. [SiD OD](https://github.com/akouz/MusEff/tree/main/SiD_OD) - двухкаскадный [ассимметричный диодный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md)
  5. [Polar Bear](https://github.com/akouz/MusEff/blob/main/Polar_Bear/README.md) - двухкаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md) на ячейках Гилберта
- 6. [Polaris](https://github.com/akouz/MusEff/blob/main/Polaris/README.md) -однокаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md) на JFET 
+ 6. [Polaris](https://github.com/akouz/MusEff/blob/main/Polaris/README.md) - однокаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md) на JFET 
 
 - Задержки
  1. [Reverb](https://github.com/akouz/MusEff/tree/main/Reverb) - ревербератор на трех линиях задержки PT2399
