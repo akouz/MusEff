@@ -6,3 +6,5 @@
 
 Цепочка из диода Шоттки D7 и резистора R23 тоже опциональная. Она имитирует влияние сеточных токов лампы и дает некоторое оживление звучания.
 
+![Fig_1](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/Polaris/Polaris_OD_rev_2_1.png)
+
