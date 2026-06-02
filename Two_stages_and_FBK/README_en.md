@@ -24,3 +24,6 @@ Let's place a mixer at the input of a stage with a parabolic transfer characteri
 
 Fig.2
 
+At the same time, the THD at the stage's output decreased slightly, from 8.6% to 6.1%, but the signal spectrum changed radically. In addition to the second harmonic, the negative feedback stage added all the higher harmonics to the output spectrum.
+
+This was obviously the reason why VOX firmly promised that its amplifiers would not use negative feedback. As is well known, The Beatles played on VOX amplifiers. In light of the above, this does not seem coincidental.
