@@ -20,3 +20,11 @@ However, their spectra differ significantly, see Fig. 3. The spectrum of the par
 
 Fig.3
 
+Let's compare these two spectra with the spectra of some amplifier stages.
+
+We'll start with the amplifier stage using a bipolar transistor. The specific transistor chosen doesn't matter much. We'll take the popular BC847B, supply voltage 9 V, and load 10 kOhm. To achieve maximum distortion, we won't introduce AC feedback, but we'll use DC feedback to stabilize the operation.
+
+![Fig.4](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_4.png)
+
+Fig.4
+
