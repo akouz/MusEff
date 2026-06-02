@@ -33,3 +33,10 @@ As before, we will adjust the amplitude of the input signal so as to obtain 10% 
 ![Fig.5](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_5.png)
 
 Fig.5
+
+As can be seen in Fig. 6, the spectrum of the output signal of the amplification stage on a bipolar transistor has fewer harmonics than the spectrum of the X^(3/2) function.
+
+![Fig.6](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_6.png)
+
+Fig.6
+
