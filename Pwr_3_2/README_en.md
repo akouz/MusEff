@@ -46,3 +46,10 @@ Now let's consider the JFET transistor cascade. Its circuit is shown in Fig. 7. 
 
 Fig.7
 
+As expected, the output waveform is indistinguishable from the BJT output waveform and other previously presented functions. In this context, examining the oscilloscope traces is completely pointless.
+
+![Fig.8](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_8.png)
+
+Fig.8
+
+
