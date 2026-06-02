@@ -14,3 +14,9 @@ The output signals after adjusting the input and output signal amplitudes are sh
 
 Fig.2
 
+However, their spectra differ significantly, see Fig. 3. The spectrum of the parabolic function contains only the first and second harmonics; the others are absent. The spectrum of the X^(3/2) function, however, contains all the higher harmonics, although they decay rather quickly.
+
+![Fig.3](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_3.png)
+
+Fig.3
+
