@@ -1,0 +1,3 @@
+# Law of Power 3/2
+
+When describing vacuum tube current-voltage characteristics, reference is often made to the "3/2 power law" to which they adhere. The origin of such assertions lies in the fact that the current in a vacuum diode in space-charge mode obeys the Child-Langmuir law, where it is proportional to the voltage raised to the 3/2 power. However, this law is not true for all vacuum tube diodes. In the case of vacuum tube triodes, the electrode geometry and grid "holeiness" begin to influence the current-voltage characteristics. As a result, the discrepancy with the "3/2 power law" reaches 20-30%.
