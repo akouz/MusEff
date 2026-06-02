@@ -9,9 +9,9 @@
 
 ## Проекты
 - Овердрайвы
- 1. [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) с подмешиванием ВЧ
- 2. [Si-Klon](https://github.com/akouz/MusEff/blob/main/Si-Klon) - используется [клиппер](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением
- 3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey) - два [клиппера](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением, включенные последовательно
+ 1. [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [симметричный клиппер](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) с подмешиванием ВЧ
+ 2. [Si-Klon](https://github.com/akouz/MusEff/blob/main/Si-Klon) - используется [симметричный клиппер](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением
+ 3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey) - два [симметричных клиппера](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением
  4. [SiD OD](https://github.com/akouz/MusEff/tree/main/SiD_OD) - двухкаскадный [ассимметричный диодный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md)
  5. [Polar Bear](https://github.com/akouz/MusEff/blob/main/Polar_Bear/README.md) - двухкаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md) на ячейках Гилберта
  6. [Polaris](https://github.com/akouz/MusEff/blob/main/Polaris/README.md) -однокаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md) на JFET 
