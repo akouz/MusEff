@@ -28,3 +28,8 @@ We'll start with the amplifier stage using a bipolar transistor. The specific tr
 
 Fig.4
 
+As before, we will adjust the amplitude of the input signal so as to obtain 10% distortion, and adjust the amplitude of the output signal so that the first harmonic in the spectrum is equal to 0 dB.
+
+![Fig.5](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_5.png)
+
+Fig.5
