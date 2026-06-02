@@ -40,7 +40,7 @@ As can be seen in Fig. 6, the spectrum of the output signal of the amplification
 
 Fig.6
 
-Now let's consider the JFET transistor cascade. Its circuit is shown in Fig. 7. The supply is 9 V, the load is 20 kOhm, and a positive bias of 0.5 V is applied to the source.
+Now let's consider a JFET transistor cascade. Its circuit is shown in Fig. 7. The supply is 9 V, the load is 20 kOhm, and a positive bias of 0.5 V is applied to the source.
 
 ![Fig.7](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_7.png)
 
@@ -52,4 +52,9 @@ As expected, the output waveform is indistinguishable from the BJT output wavefo
 
 Fig.8
 
+However, the output signal spectrum is different, see Fig. 9. It has fewer higher harmonics than the spectrum of the bipolar transistor cascade. And, of course, fewer than the X^(3/2) function.
+
+![Fig.9](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_9.png)
+
+Fig.9
 
