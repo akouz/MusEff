@@ -80,3 +80,7 @@ The supply voltage is 250 V, the anode load is 100 kOhm, a positive bias of 1 V 
 ![Fig.10](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_10.png)
 
 Fig.10
+
+Compared to a JFET, the third harmonic is attenuated by approximately 30 dB. This spectrum is much closer to the X^2 spectrum than to the X^(3/2) spectrum. The accuracy of the spice models used can be debated, but the spectra shown correspond to well-known facts and patterns: vacuum tubes produce a more pleasing sound than JFETs, and JFETs produce a more pleasing sound than BJTs.
+
+From the above, it follows that the X^(3/2) function is a rather poor match for a vacuum tube amplifier stage.
