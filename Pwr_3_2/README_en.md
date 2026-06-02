@@ -40,3 +40,9 @@ As can be seen in Fig. 6, the spectrum of the output signal of the amplification
 
 Fig.6
 
+Now let's consider the JFET transistor cascade. Its circuit is shown in Fig. 7. The supply is 9 V, the load is 20 kOhm, and a positive bias of 0.5 V is applied to the source.
+
+![Fig.7](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/fig_7.png)
+
+Fig.7
+
