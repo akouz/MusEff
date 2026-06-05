@@ -144,4 +144,27 @@ Fig.14
 
 A multiplier can also be built using a transconductance amplifier. This idea was embodied by Robert Moog in his all-solid-state Lab Series amplifiers in the late 1970s. Using a [multiplier](https://aionfx.com/app/files/schematics/Lab_Series_L5_L7_L9_L11_schematic.pdf)  based on the CA3080/CA3280/CA3094 produced a [sound comparable to that of tube amplifiers](https://www.youtube.com/watch?v=JzR54nKKtJQ). Aion subsequently released a [preamp]((https://aionfx.com/project/l5-preamp/) similar to the Lab Series L5 preamplifier. The multiplier used is the LM13700.
 
+## 4. Differential cascade
 
+A differential stage offers another way to obtain a transfer function similar to a parabolic one. To do this, simply apply a constant bias to one of the transistors in idle mode, as shown in Fig. 15. The resulting transfer function and its first derivative at R3 = 33 kOhm, as well as the spectrum at 10% output distortion, are also shown there.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/DiffAmp.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/DiffAmp_deriv.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/DiffAmp_FFT_at_THD_10.png" width="70%"></td>
+  </tr>
+</table>
+Fig.15
+
+It's easy to see that the resulting spectrum more closely resembles the "diode" spectrum in Fig. 2 than the spectrum of a multiplier or the JFET spectrum in Fig. 12.
+
+Fig. 16 shows the output signal waveforms and corresponding spectra.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/DiffAmp_Vout.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/DiffAmp_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.16
