@@ -6,4 +6,6 @@ JEFF - это двухкаскадный JFET овердрайв, подобны
 
 -- избавиться от TC1044, заменив его копеечным генератором на триггере Шмитта TC4S584
 
+![Jeff](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/Jeff/Jeff_rev_2_1.png)
+
 
