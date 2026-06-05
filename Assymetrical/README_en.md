@@ -123,7 +123,7 @@ Comparing these spectra at 10% distortion with the spectra of the diode cascade 
 
 ## 3. Multiplier
 
-A [parabolic transfer function](https://github.com/akouz/MusEff/blob/main/Mult/README_en.MD) is easily obtained by multiplying the signal by itself. However, analog multiplier chips are expensive. A simple analog multiplier can be built using a Gilbert cell. Precision isn't required, and four-quadrant multiplication isn't necessary, so the circuit can be simplified to its utmost:
+A [parabolic transfer function](https://github.com/akouz/MusEff/blob/main/Mult/README_en.md) is easily obtained by multiplying the signal by itself. However, analog multiplier chips are expensive. A simple analog multiplier can be built using a Gilbert cell. Precision isn't required, and four-quadrant multiplication isn't necessary, so the circuit can be simplified to its utmost:
 
 <table style="width: 100%;">
   <tr>
