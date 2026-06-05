@@ -122,3 +122,26 @@ Fig.12
 Comparing these spectra at 10% distortion with the spectra of the diode cascade Fig. 2, it is easy to see that JFETs produce much fewer higher harmonics, especially the cascode stage.
 
 ## 3. Multiplier
+
+A [parabolic transfer function](https://github.com/akouz/MusEff/blob/main/Mult/README_en.MD) is easily obtained by multiplying the signal by itself. However, analog multiplier chips are expensive. A simple analog multiplier can be built using a Gilbert cell. Precision isn't required, and four-quadrant multiplication isn't necessary, so the circuit can be simplified to its utmost:
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/Gilb_sch.png" width="70%"></td>
+  </tr>
+</table>
+Fig.13
+
+The output signals and their spectra are shown in Fig. 14. A signal of double frequency is present at the collector of Q1.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/Gilb_out.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/Gilb_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.14
+
+A multiplier can also be built using a transconductance amplifier. This idea was embodied by Robert Moog in his all-solid-state Lab Series amplifiers in the late 1970s. Using a [multiplier](https://aionfx.com/app/files/schematics/Lab_Series_L5_L7_L9_L11_schematic.pdf)  based on the CA3080/CA3280/CA3094 produced a [sound comparable to that of tube amplifiers](https://www.youtube.com/watch?v=JzR54nKKtJQ). Aion subsequently released a [preamp]((https://aionfx.com/project/l5-preamp/) similar to the Lab Series L5 preamplifier. The multiplier used is the LM13700.
+
+
