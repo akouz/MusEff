@@ -91,3 +91,34 @@ Fig.9
 
 ## 2. JFET amplifier stage
 
+Let's compare two JFET connection schemes, conventional and cascode.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode.png" width="70%"></td>
+  </tr>
+</table>
+Fig.10
+
+The transfer functions of these cascades, as well as their derivatives, are shown in Fig. 11. The derivative of the cascode transfer function is more linear. This means that the cascode transfer function itself is closer to parabolic. Therefore, both circuits will produce the same second harmonic, while the cascode circuit will produce fewer higher harmonics.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_transfer.png" width="70%"></td>
+  </tr>
+</table>
+Fig.11
+
+This can be verified by applying a sinusoidal signal to the input of both stages and comparing the resulting spectra. The DC bias on the gates of both stages is -2.3 V.
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_Vout.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/JFET_cascode_FFT.png" width="70%"></td>
+  </tr>
+</table>
+Fig.12
+
+Comparing these spectra at 10% distortion with the spectra of the diode cascade Fig. 2, it is easy to see that JFETs produce much fewer higher harmonics, especially the cascode stage.
+
+## 3. Multiplier
