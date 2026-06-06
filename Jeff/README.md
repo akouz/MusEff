@@ -26,6 +26,6 @@ JEFF - это двухкаскадный JFET овердрайв, подобны
 
 4. GAIN 15:00, два каскада
 
-Остальные ручки в среднем положении (т.е. 12:00)
+Остальные ручки в положении 12:00.
 
 [Jeff.mp3](https://github.com/akouz/MusEff/raw/refs/heads/main/Jeff/Jeff_St1_St2_9_00_15_00_trim.mp3)
