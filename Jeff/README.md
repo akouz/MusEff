@@ -28,4 +28,4 @@ JEFF - это двухкаскадный JFET овердрайв, подобны
 
 Остальные ручки в среднем положении (т.е. 12:00)
 
-[Пример](https://github.com/akouz/MusEff/blob/main/Jeff/Jeff_St1_St2_9_00_15_00_trim.mp3)
+[Jeff.mp3](https://github.com/akouz/MusEff/raw/refs/heads/main/Jeff/Jeff_St1_St2_9_00_15_00_trim.mp3))
