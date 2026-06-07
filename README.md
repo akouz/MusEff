@@ -11,7 +11,7 @@
 
 ## Проекты
 - Овердрайвы
- 1. [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [симметричный клиппер](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) с подмешиванием ВЧ
+ 1. [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [симметричный клиппер](https://github.com/akouz/MusEff/tree/main/Clippers#%D0%BA%D0%BB%D0%B8%D0%BF%D0%BF%D0%B5%D1%80%D1%8B-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BC%D0%B5%D1%81%D0%BE%D0%BC-%D0%B2%D1%87-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B0) с подмешиванием ВЧ
  2. [Si-Klon](https://github.com/akouz/MusEff/blob/main/Si-Klon) - используется [симметричный клиппер](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением
  3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey) - два [симметричных клиппера](https://github.com/akouz/MusEff/tree/main/Clippers/README.md) со смещением
  4. [SiD OD](https://github.com/akouz/MusEff/tree/main/SiD_OD) - двухкаскадный [ассимметричный диодный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md)
