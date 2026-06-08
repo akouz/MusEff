@@ -9,3 +9,5 @@
 Звучание напоминает трехкаскадный ламповый усилитель. В представленном примере регулятор усиления находится в положении 9:00 половину времени и в положении 15:00 другую половину. Сигнал был записан на линейный вход и не подвергался обработке.
 
 [пример звучания](https://github.com/akouz/MusEff/blob/main/Polar_Bear/Polar_Bear_rev_3_0_gain_9_00__15_00.mp3)
+
+![Assembled](https://github.com/akouz/MusEff/blob/main/Polar_Bear/Polar_Bear_assy.png)
