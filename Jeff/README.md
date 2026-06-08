@@ -24,4 +24,4 @@ JEFF - это двухкаскадный [JFET овердрайв](https://githu
 
 Пример оформления при помощи переводной картинки, напечатанной цветным лазерным принтером:
 
-![Assembled](Jeff/PXL_20260608_123326661.jpg)
+![Assembled](https://github.com/akouz/MusEff/blob/main/Jeff/PXL_20260608_123326661.jpg)
