@@ -10,4 +10,6 @@
 
 [пример звучания](https://github.com/akouz/MusEff/blob/main/Polar_Bear/Polar_Bear_rev_3_0_gain_9_00__15_00.mp3)
 
+Пример оформления при помощи лазерной гравировки:
+
 ![Assembled](https://github.com/akouz/MusEff/blob/main/Polar_Bear/Polar_Bear_assy.png)
