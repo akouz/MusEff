@@ -8,3 +8,5 @@
 
 ![Fig_1](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/Polaris/Polaris_OD_rev_2_1.png)
 
+
+![Polaris](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/Polaris/Polaris.jpg)
