@@ -8,5 +8,10 @@
 
 ![Fig_1](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/Polaris/Polaris_OD_rev_2_1.png)
 
+Пример звучания, ручка GAIN в положении 9:00, 12:00 и 15:00
+
+[Polaris.mp3)[https://github.com/akouz/MusEff/raw/refs/heads/main/Polaris/Polaris_9_12_15_HL.mp3]
+
+Пример оформления в корпусе 1590B
 
 ![Polaris](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/Polaris/Polaris.jpg)
