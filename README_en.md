@@ -9,4 +9,4 @@
 
 ## Projects
 - Overdrives
-  1. [ODplus](https://github.com/akouz/MusEff/blob/main/ODplus/README_en.md) - uses simmetrical clipper with [HF-admixture](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md#clippers-with-high-frequency-signal-admixture).
+ 1. [ODplus](https://github.com/akouz/MusEff/blob/main/ODplus/README_en.md) - uses simmetrical clipper with [HF-admixture](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md#clippers-with-high-frequency-signal-admixture).
