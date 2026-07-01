@@ -1,4 +1,4 @@
-# Музыкальные эффекты
+# Музыкальные эффекты - [Musical effects](https://github.com/akouz/MusEff/blob/main/README_en.md)
 
 [Musical effects](https://github.com/akouz/MusEff/blob/main/README_en.md)
 
