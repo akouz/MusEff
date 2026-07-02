@@ -27,7 +27,7 @@ Thus, the essential difference between a "germanium" transfer characteristic and
 
 Accordingly, the sound of clippers using Schottky diodes remains "silicon-like," as the clipper still has a linear portion in its transfer characteristic, albeit smaller than that of a clipper using conventional silicon diodes. This linear portion can be further reduced by heating the Schottky diodes to 100–120°C. Experiments have shown that the clipper's sound softens and becomes more similar to that of a germanium clipper, but the "silicon wheeze" cannot be completely eliminated.
 
-## Offset clippers
+## Biased clippers
 
 This means that if the silicon diodes in the clipper are "shifted to the left" by applying a small positive bias, the linear sections can be eliminated. The transfer characteristics will be the same as those of germanium clippers, nonlinear throughout. Consequently, they will sound virtually identical. The required bias voltage can be achieved by passing a small current through the reference diode, and the resulting voltage drop is buffered and used as the bias voltage for the clipper. For 1N4148 diodes, the transfer characteristics at reference diode bias currents of 10 µA and 20 µA are as follows:
 
