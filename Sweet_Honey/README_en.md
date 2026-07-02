@@ -2,8 +2,8 @@
 
 The same idea is used as in Mad Professor's "Sweet Honey" overdrive: a clipper in feedback path. By adjusting the feedback depth, you can control the distortion introduced by the clipper.
 
-However, the similarity ends there. Two biased clippers are used connected in series. The first clipper is in feedback path, the depth of which is adjusted with the R8 trimpot. The series-connected 
-clippers, with their soft characteristics, allow the distortion they introduce to be summed, creating a richer sound.
+However, the similarity ends there. Two biased soft clippers are connected in series. The first clipper is in feedback path, the depth of which is adjusted with the R8 trimpot. The series-connected 
+clippers allow the distortion to be summed. It creates a richer sound.
 
 <img width="1279" height="794" alt="SweetHoney_rev_1_1" src="https://github.com/user-attachments/assets/f6d19e29-9614-4aaf-a78c-72918a8c2094" />
 
