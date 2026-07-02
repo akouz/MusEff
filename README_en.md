@@ -13,3 +13,4 @@
  2. [Si-Klon](https://github.com/akouz/MusEff/blob/main/Si-Klon/README_en.md) - uses symmetrical [biased clipper](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md#biased-clippers).
  3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey/README_en.md) - two symmetrical [biased clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md#biased-clippers).
  4. [SiD OD](https://github.com/akouz/MusEff/blob/main/SiD_OD/README_en.md) - two-stage [asymmetrical diode clipper](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md).
+ 5. [Polar Bear](https://github.com/akouz/MusEff/blob/main/Polar_Bear/README_en.md) - two-stage asymmetrical clipper based on Gilbert cells
