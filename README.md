@@ -1,6 +1,8 @@
 # Musical effects - Музыкальные эффекты
 
-| Theory | Теория |
+## Theory - Теория 
+
+| in English | in Russian |
 | :--- | :--- |
 | [Clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md) | [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)  |
 | [Multipliers](https://github.com/akouz/MusEff/blob/main/Mult/README_en.md)  | [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD) |
@@ -12,6 +14,10 @@
 
 | Overdrives | Овердрайвы |
 | :--- | :--- |
+| [ODplus](https://github.com/akouz/MusEff/blob/main/ODplus/README_en.md) - uses symmetrical clipper with [HF-admixture](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md#clippers-with-high-frequency-signal-admixture). | [ODplus](https://github.com/akouz/MusEff/tree/main/ODplus) - используется [симметричный клиппер](https://github.com/akouz/MusEff/tree/main/Clippers#%D0%BA%D0%BB%D0%B8%D0%BF%D0%BF%D0%B5%D1%80%D1%8B-%D1%81-%D0%BF%D0%BE%D0%B4%D0%BC%D0%B5%D1%81%D0%BE%D0%BC-%D0%B2%D1%87-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B0) с подмешиванием ВЧ |
+
+
+
 
 - Overdrives
  1. [ODplus](https://github.com/akouz/MusEff/blob/main/ODplus/README_en.md) - uses symmetrical clipper with [HF-admixture](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md#clippers-with-high-frequency-signal-admixture).
