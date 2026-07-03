@@ -1,12 +1,8 @@
 # Musical effects
 
-<table style="width: 100%;">
-  <tr>
-    <td> - [Clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md)</td>
-    <td> - [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)</td>
-  </tr>
-</table>
-
+| Theory | Теория |
+| :--- | :--- |
+| [Clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md) |  [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)  |
 
 
 ## Theory
