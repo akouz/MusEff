@@ -1,6 +1,8 @@
 # Musical effects - Музыкальные эффекты
 
-| ## Theory | ## Теория |
+## Theory - Теория
+
+
 | :--- | :--- |
 | [Clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md) | [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)  |
 | [Multipliers](https://github.com/akouz/MusEff/blob/main/Mult/README_en.md)  | [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD) |
