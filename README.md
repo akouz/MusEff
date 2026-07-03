@@ -1,9 +1,14 @@
-# Musical effects
+# Musical effects - Музыкальные эффекты
 
 | Theory | Теория |
 | :--- | :--- |
-| - [Clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md) | - [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)  |
-| - [Multipliers](https://github.com/akouz/MusEff/blob/main/Mult/README_en.md)  | - [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD) |
+| [Clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md) | [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)  |
+| [Multipliers](https://github.com/akouz/MusEff/blob/main/Mult/README_en.md)  | [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD) |
+| ["Law of Power 3/2"](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/README_en.md) | ["Закон степени 3/2"](https://github.com/akouz/MusEff/blob/main/Pwr_3_2/README.md) |
+| [Series connection of cascades and the influence of feedback](https://github.com/akouz/MusEff/blob/main/Two_stages_and_FBK/README_en.md) |  [Последовательное включение каскадов и влияние ООС](https://github.com/akouz/MusEff/blob/main/Two_stages_and_FBK/README.md) |
+| [Asymmetrical distortion](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md) | [Несимметричные искажения](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md) |
+
+
 
 
 ## Theory
