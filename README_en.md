@@ -14,3 +14,4 @@
  3. [Sweet Honey](https://github.com/akouz/MusEff/blob/main/Sweet_Honey/README_en.md) - two symmetrical [biased clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md#biased-clippers).
  4. [SiD OD](https://github.com/akouz/MusEff/blob/main/SiD_OD/README_en.md) - two-stage [asymmetrical diode clipper](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md).
  5. [Polar Bear](https://github.com/akouz/MusEff/blob/main/Polar_Bear/README_en.md) - two-stage [asymmetrical clipper](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md#3-multiplier) based on Gilbert cells.
+ 6. [Polaris](https://github.com/akouz/MusEff/blob/main/Polaris/README_en.md) - single-stage [asymmetrical JFET clipper](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md#2-jfet-amplifier-stage).
