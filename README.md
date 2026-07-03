@@ -1,8 +1,6 @@
 # Musical effects - Музыкальные эффекты
 
-## Theory - Теория 
-
-| in English | in Russian |
+| Theory | Теория |
 | :--- | :--- |
 | [Clippers](https://github.com/akouz/MusEff/blob/main/Clippers/README_en.md) | [Клипперы](https://github.com/akouz/MusEff/tree/main/Clippers)  |
 | [Multipliers](https://github.com/akouz/MusEff/blob/main/Mult/README_en.md)  | [Умножители](https://github.com/akouz/MusEff/blob/main/Mult/README.MD) |
@@ -22,8 +20,6 @@
 | [Polar Bear](https://github.com/akouz/MusEff/blob/main/Polar_Bear/README_en.md) - two-stage [asymmetrical clipper](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md#3-multiplier) based on Gilbert cells. | [Полярный Медведь](https://github.com/akouz/MusEff/blob/main/Polar_Bear/README.md) - двухкаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md#3-%D1%83%D0%BC%D0%BD%D0%BE%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D1%8C) на ячейках Гилберта |
 | [Polaris](https://github.com/akouz/MusEff/blob/main/Polaris/README_en.md) - single-stage [asymmetrical JFET clipper](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md#2-jfet-amplifier-stage). |  [Полярная Звезда](https://github.com/akouz/MusEff/blob/main/Polaris/README.md) - однокаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md#2-усилительный-каскад-на-jfet) на JFET |
 |  | [Jeff](https://github.com/akouz/MusEff/blob/main/Jeff/README.md) - двухкаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md#2-усилительный-каскад-на-jfet) на JFET |
-
-| Delays | Задержки |
-| :--- | :--- |
+| <br> **Delays** | <br> **Задержки** |
 |  | [Reverb](https://github.com/akouz/MusEff/tree/main/Reverb) - ревербератор на трех линиях задержки PT2399 |
 
