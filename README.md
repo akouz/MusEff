@@ -22,7 +22,9 @@
 | [Polaris](https://github.com/akouz/MusEff/blob/main/Polaris/README_en.md) - single-stage [asymmetrical JFET clipper](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md#2-jfet-amplifier-stage). |  [Полярная Звезда](https://github.com/akouz/MusEff/blob/main/Polaris/README.md) - однокаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md#2-усилительный-каскад-на-jfet) на JFET |
 |  | [Jeff](https://github.com/akouz/MusEff/blob/main/Jeff/README.md) - двухкаскадный [ассимметричный клиппер](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md#2-усилительный-каскад-на-jfet) на JFET |
 
-
+| Delays | Задержки |
+| :--- | :--- |
+|  | [Reverb](https://github.com/akouz/MusEff/tree/main/Reverb) - ревербератор на трех линиях задержки PT2399 |
 
 
 - Overdrives
