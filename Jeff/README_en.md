@@ -4,4 +4,7 @@ The JEFF is a two-stage [JFET overdrive](https://github.com/akouz/MusEff/blob/ma
 - to compare the sound of a single- and dual-stage cascode asymmetrical JFET clipper
 - to eliminate the TC1044, replacing it with a low-cost oscillator based on TC4S584 Schmitt trigger
 
+![Jeff](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/Jeff/Jeff_rev_2_1.png)
+
+
 
