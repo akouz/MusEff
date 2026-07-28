@@ -171,4 +171,11 @@ Fig.16
 
 ## 5. Dallas Rangemaster
 
-Еще одна возможность построить нелинейную передаточную фунцию состоит в том, чтобы использовать усилительный каскад с общим эмиттером без отрицательных обратных связей. Это было реализовано в середине 60-х устройстве ![Dallas Rangemaster](https://beavisaudio.com/schematics/Images/Dallas-Rangemaster-Schematic.png).
+Еще одна возможность построить нелинейную передаточную фунцию состоит в том, чтобы использовать усилительный каскад с общим эмиттером без отрицательных обратных связей. Это было реализовано в середине 60-х устройстве Dallas Rangemaster 
+
+![Dallas Rangemaster](https://beavisaudio.com/schematics/Images/Dallas-Rangemaster-Schematic.png).
+Fig.17
+
+Для симуляции в Спайсе была использована такая схема:
+
+![RM_sch](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_80mV_640mV.png)
