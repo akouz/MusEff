@@ -184,11 +184,19 @@ Fig.18
 Передаточная функция и ее первая производная таковы:
 
 ![RM_transfer](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_Transfer_and_deriv.png)
-Fig.18
+Fig.19
 
 Производная сильно нелинейна, поскольку передаточная функция не степенная, а экспоненциальная. При прочих равных она дает существенно больше высших гармоник в выходноом спектре, чем степенные функции.
 
 ![RM_FFT](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_FFT_when_THD_10.png)
-Fig.19
+Fig.20
 
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_5mV_40mV.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_80mV_640mV.png" width="70%"></td>
+  </tr>
+</table>
+Fig.21,22
 
+При малых сигналах искажения растут пропорционально амплитуде входного сигнала, как это и должно быть для хорошо звучащего клиппера. 
