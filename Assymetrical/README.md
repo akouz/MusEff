@@ -178,4 +178,17 @@ Fig.17
 
 Для симуляции в Спайсе была использована такая схема:
 
-![RM_sch](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_80mV_640mV.png)
+![RM_sch](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_DC_voltages.png)
+Fig.18
+
+Передаточная функция и ее первая производная таковы:
+
+![RM_transfer](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_Transfer_and_deriv.png)
+Fig.18
+
+Производная сильно нелинейна, поскольку передаточная функция не степенная, а экспоненциальная. Соответственно, при прочих равных она дает существенно больше высших гармоник в выходноом спектре.
+
+![RM_FFT](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_FFT_when_THD_10.png)
+Fig.19
+
+
