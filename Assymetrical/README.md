@@ -191,7 +191,7 @@ Fig.19
 ![RM_FFT](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_FFT_when_THD_10.png)
 Fig.20
 
-Форма выходного сигнала при входных сигналах 5-10-2-40 мВ и 80-160-320-640 мВ
+Форма выходного сигнала при входных сигналах 5-10-2-40 мВ и 80-160-320-640 мВ двойной амплитуды: 
 <table style="width: 100%;">
   <tr>
     <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_5mV_40mV.png" width="70%"></td>
