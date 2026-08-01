@@ -168,3 +168,37 @@ Fig. 16 shows the output signal waveforms and corresponding spectra.
   </tr>
 </table>
 Fig.16
+
+## 5. Dallas Rangemaster
+
+Another option for constructing a nonlinear transfer function is to use a common-emitter gain stage without negative AC feedback. This was implemented in the mid-1960s in the Dallas Rangemaster:
+
+![Dallas Rangemaster](https://beavisaudio.com/schematics/Images/Dallas-Rangemaster-Schematic.png).
+Fig.17
+
+The following scheme was used for the simulation in Spice:
+
+![RM_sch](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_DC_voltages.png)
+Fig.18
+
+The transfer function and its first derivative are:
+
+![RM_transfer](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_Transfer_and_deriv.png)
+Fig.19
+
+The derivative is highly nonlinear because the transfer function is exponential rather than power-law. All other things being equal, it produces significantly more higher harmonics in the output spectrum than power-law functions.
+
+![RM_FFT](https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_FFT_when_THD_10.png)
+Fig.20
+
+Output signal shape for input signals of 5-10-2-40 mV p-p and 80-160-320-640 mV p-p:
+
+<table style="width: 100%;">
+  <tr>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_5mV_40mV.png" width="70%"></td>
+    <td><img src="https://github.com/akouz/MusEff/blob/main/Assymetrical/RM_80mV_640mV.png" width="70%"></td>
+  </tr>
+</table>
+Fig.21,22
+
+At small signals, distortion increases proportionally to the amplitude of the input signal, as it should for a good-sounding clipper.
