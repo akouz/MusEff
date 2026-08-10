@@ -40,4 +40,8 @@ Vin mVpp        1-st    2-st    3-st
 200             28%     33%     26%
 400             37%     41%     37%
 ```
+Below 50 mVpp distortion for all 3 variants are the same; they are proportional to the input voltage.
 
+Spectra at Vin = 100 mVpp
+
+![Fig.4](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/1_2_3_stages/FFT_100.png)
