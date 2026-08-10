@@ -21,6 +21,7 @@ This reasoning is supported by simulations in Spice.
 
 Output signals at 10% output distortion:
 
+![Fig.2](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/1_2_3_stages/Output_when_THD_10.png)
 
 The red curve is the signal at the first stage output in the 2- and 3-stage configurations. Its output signal is used for both the 2- and 3-stage configurations. Distortion at the first stage output is approximately 3%, and the amplitude is approximately one-third of the output amplitude.
 
@@ -28,4 +29,5 @@ It's easy to see that at 10% distortion, the output signal amplitude of the thre
 
 When the input signal amplitude doubles, the two-stage overdrive enters hard clipping, the single-stage overdrive balances on the edge, and the three-stage overdrive still has some headroom.
 
+![Fig.3](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/1_2_3_stages/Output_when_Vin_x2.png)
 
