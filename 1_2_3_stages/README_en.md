@@ -32,12 +32,12 @@ When the input signal amplitude doubles, the two-stage overdrive enters hard cli
 ![Fig.3](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/1_2_3_stages/Output_when_Vin_x2.png)
 
 Distortion at transition to hard clipping:
-'
+```
 Vin mVpp        1-st    2-st    3-st
 ---------------------------------------
 50              10%     10%     10%
 100             16%     19%     20%
 200             28%     33%     26%
 400             37%     41%     37%
-'
+```
 
