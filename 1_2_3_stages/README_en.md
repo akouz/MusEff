@@ -5,6 +5,8 @@ Let's take the simplest JFET amplifier stage without negative feedback:
 
 Such stages have been well-studied; their transfer characteristic is close to a parabolic function. With relatively low overdrive (up to approximately 15% THD), they produce a good sound, reminiscent of a vacuum tube stage. This is because such a stage produces primarily the second harmonic; higher harmonics in the output spectrum decay quickly.
 
+!(Fig.1)[https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/1_2_3_stages/JFET_stage.png]
+
 What happens if two stages are connected in series? What happens if three stages are connected in series?
 
 The simple answer "there will be more distortion" is incorrect. After all, we adjust the input signal so that the output distortion is the same in all variations, with, say, a THD of 10%. And we adjust the output signal amplitude so that the first harmonic of the spectrum is 0 dB. Therefore, the amount of distortion is the same, so what's the difference?
