@@ -10,9 +10,9 @@
 
 Примеры звучания. TONE в положении 12:00, SW1 в нижнем (по схеме) положении.
 
-[GAIN в положении 9:00](RangeMaster/RM_1_2_Gain_9.mp3)
+[GAIN в положении 9:00](https://github.com/akouz/MusEff/raw/refs/heads/main/RangeMaster/RM_1_2_Gain_9.mp3)
 
-[GAIN в положении 15:00](RangeMaster/RM_1_2_Gain_15.mp3)
+[GAIN в положении 15:00](https://github.com/akouz/MusEff/raw/refs/heads/main/RangeMaster/RM_1_2_Gain_15.mp3)
 
 
 
