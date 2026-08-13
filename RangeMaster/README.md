@@ -1,6 +1,6 @@
 # RangeMaster
 
-Практическая реализация устройства, аналогичного [Dallas Rangemaster](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md#5-dallas-rangemaster).
+Практическая реализация овердрайва, аналогичного [Dallas Rangemaster](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md#5-dallas-rangemaster).
 
 ![Fig 1](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/RangeMaster/RangeMaster_rev_1_2.png)
 
