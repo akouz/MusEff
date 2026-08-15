@@ -8,4 +8,7 @@
 
 В звуковом примере каждый музыкальный фрагмент проигрывается два раза: первый раз в положении SW1 "HARD", второй раз - в положении "SOFT"
 
-[Sample](https://github.com/akouz/MusEff/raw/refs/heads/main/ODplus/ODplus_rev_2_1_cab.mp3)
+[https://github.com/akouz/MusEff/raw/refs/heads/main/ODplus/ODplus_rev_2_1_cab.mp3](https://github.com/akouz/MusEff/raw/refs/heads/main/ODplus/ODplus_rev_2_1_cab.mp3)
+
+
+
