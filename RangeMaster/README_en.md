@@ -1,6 +1,6 @@
 # RangeMaster
 
-Practical implementation of overdrive similar to [Dallas Rangemaster](https://github.com/akouz/MusEff/blob/main/Assymetrical/README.md#5-dallas-rangemaster).
+Practical implementation of overdrive similar to [Dallas Rangemaster](https://github.com/akouz/MusEff/blob/main/Assymetrical/README_en.md#5-dallas-rangemaster).
 
 ![Fig 1](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/RangeMaster/RangeMaster_rev_1_2.png)
 
