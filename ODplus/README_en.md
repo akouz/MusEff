@@ -10,3 +10,4 @@ In the sound example, each musical fragment is played twice: the first time in t
 
 [Sample](https://github.com/akouz/MusEff/raw/refs/heads/main/ODplus/ODplus_rev_2_1_cab.mp3)
 
+![ODplus](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/ODplus/ODplus.jpg)
