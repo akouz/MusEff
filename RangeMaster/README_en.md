@@ -14,3 +14,4 @@ Sound examples: TONE at 12:00, SW1 at the bottom position (as per the diagram).
 
 [GAIN 15:00](https://github.com/akouz/MusEff/raw/refs/heads/main/RangeMaster/RM_1_2_Gain_15.mp3)
 
+![Rangemaster](https://raw.githubusercontent.com/akouz/MusEff/refs/heads/main/RangeMaster/Rangemaster.jpg)
